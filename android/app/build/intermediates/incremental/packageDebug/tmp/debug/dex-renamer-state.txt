@@ -1,0 +1,4 @@
+#Sun Jun 23 11:23:34 BRT 2019
+base.0=/home/eder/dev/talkforfun/lab/instagramAuthentication/android/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

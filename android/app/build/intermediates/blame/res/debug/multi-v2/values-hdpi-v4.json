@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/eder/dev/talkforfun/lab/instagramAuthentication/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/eder/.gradle/caches/transforms-2/files-2.1/feee7c44acf749790f4b9f3d230413e3/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
